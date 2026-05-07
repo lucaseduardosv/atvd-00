@@ -6,3 +6,6 @@ Commit em dev
 1° commit feat/login
 2° commit feat/login
 3° commit feat/login
+1° commit em feat/cadastro
+2° commit em feat/cadastro
+3° commit em feat/cadastro
